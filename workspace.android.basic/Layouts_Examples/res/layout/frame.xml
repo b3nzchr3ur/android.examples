@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:contentDescription="@string/bart"
+        android:scaleType="fitXY"
+        android:src="@drawable/mugshot1" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="55dip"
+        android:background="@color/olivegreen"
+        android:gravity="bottom"
+        android:text="@string/simpson"
+        android:textColor="#000000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="35dip"
+        android:background="@color/red"
+        android:gravity="bottom"
+        android:text="@string/meisjesNaam"
+        android:textColor="#000000" />
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:gravity="bottom"
+        android:orientation="horizontal" >
+        <Button
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/call" />
+    </LinearLayout>
+
+</FrameLayout>

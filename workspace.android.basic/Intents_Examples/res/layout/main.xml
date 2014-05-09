@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+    
+    <Button android:id="@+id/getPhoneNumberButton" 
+    	android:text="Get Phone Number!" android:layout_height="wrap_content" 
+    	android:layout_width="match_parent"></Button>
+    	
+    <TextView android:textAppearance="?android:attr/textAppearanceLarge" 
+	 		android:text="Phone:" 
+	 		android:id="@+id/textViewShowPhoneNumber" 
+	 		android:layout_height="wrap_content" 
+	 		android:layout_width="match_parent"></TextView>
+    	
+	<Button android:id="@+id/webButton" android:text="Load web page" 
+		android:layout_height="wrap_content" 
+		android:layout_width="match_parent"></Button>
+		
+	<Button android:id="@+id/callButton" android:text="Dial a number" 
+		android:layout_height="wrap_content" 
+		android:layout_width="match_parent"></Button>
+		
+	<Button android:id="@+id/geoButton" android:text="Show map" 
+		android:layout_height="wrap_content" 
+		android:layout_width="match_parent"></Button>
+		
+</LinearLayout>

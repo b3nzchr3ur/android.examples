@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="criminalNames">
+        <item>Jack the Flipper</item>
+        <item>John the Hacker</item>
+        <item>Wendy Ferrari</item>
+        <item>Hans Pigmans</item>
+        <item>James Tyson</item>
+    </string-array>
+    <string-array name="criminalDetails">
+        <item>Armed and fast talking</item>
+        <item>Dressed in red</item>
+        <item>Wears orange pants</item>
+        <item>Scar above left eye</item>
+        <item>Only has 8 fingers</item>
+    </string-array>
+    <string-array name="crimeNames">
+        <item>Article 4b</item>
+        <item>Article 12f</item>
+        <item>Article 42a</item>
+        <item>Article 4c</item>
+        <item>Article 17e</item>
+    </string-array>
+    <string-array name="crimeDetails">
+        <item>Robbery</item>
+        <item>Bank fraud</item>
+        <item>Tells bas jokes</item>
+        <item>Writes buggy code</item>
+        <item>Speeding at city area (142 mph)</item>
+        <item>Dropping chewing gum on the street</item>
+    </string-array>
+
+</resources>

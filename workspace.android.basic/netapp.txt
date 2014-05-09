@@ -1,0 +1,7 @@
+Directories:
+	netapp - Contains the android network demo application
+	       - Please update the ip-adress of the server.
+	webecho - Contains a tiny web application for echoing messages.
+                  For running it your need to install Grails.
+                  See http://grails.org/Installation for more details. 
+

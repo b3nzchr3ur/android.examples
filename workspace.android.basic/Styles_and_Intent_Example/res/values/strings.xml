@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SMTE4_styles_intent</string>
+    <string name="name">Name:</string>
+    <string name="city">City:</string>
+    <string name="submit">Submit</string>
+    <string name="submitDetails">Your submit details:</string>
+    <string name="dummySubmit">Shapeless submit…</string>
+
+</resources>

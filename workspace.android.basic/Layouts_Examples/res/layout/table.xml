@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dip"
+    android:orientation="vertical"
+    android:stretchColumns="*" >
+
+    <TableRow>
+        <Button android:text="@string/first" />
+        <Button android:text="@string/second" />
+    </TableRow>
+
+    <TableRow>
+	    <Button android:text="@string/third" />
+        <Button android:text="@string/fourth" />
+    </TableRow>
+
+</TableLayout>

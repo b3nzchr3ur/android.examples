@@ -1,0 +1,71 @@
+{"geonames": [
+  {
+    "summary": "The castle Croy is a castle in the Dutch province North Brabant, near the village Aarle-Rixtel which is part of the municipality Laarbeek. From 1642 until 1968 Croy belonged to the municipality Stiphout (currently part of the municipality of Helmond) (...)",
+    "distance": "1.5252",
+    "rank": 81,
+    "title": "Croy Castle",
+    "wikipediaUrl": "en.wikipedia.org/wiki/Croy_Castle",
+    "elevation": 17,
+    "countryCode": "NL",
+    "lng": 5.629166666666667,
+    "geoNameId": 2757876,
+    "lang": "en",
+    "lat": 51.5
+  },
+  {
+    "summary": "Aarle-Rixtel is a town in the Dutch municipality of Laarbeek in North Brabant. It lies about 4 km north of Helmond. Since 1997 the castle Croy is part of Aarle-Rixtel. Until 1997, Aarle-Rixtel was a separate municipality.  (...)",
+    "distance": "1.5253",
+    "rank": 95,
+    "title": "Aarle-Rixtel",
+    "wikipediaUrl": "en.wikipedia.org/wiki/Aarle-Rixtel",
+    "elevation": 18,
+    "countryCode": "NL",
+    "lng": 5.637778,
+    "feature": "city",
+    "geoNameId": 6698718,
+    "lang": "en",
+    "lat": 51.508889
+  },
+  {
+    "summary": "Lieshout is a small village in the southern Netherlands, lying about 15 kilometres northeast of Eindhoven. There are 4,300 inhabitants, and the village is famous for its beer brewery called 'Bavaria'. Lieshout is part of the municipality of Laarbeek. Before 1997, Lieshout was a separate municipality (...)",
+    "distance": "1.7951",
+    "rank": 94,
+    "title": "Lieshout",
+    "wikipediaUrl": "en.wikipedia.org/wiki/Lieshout",
+    "elevation": 15,
+    "countryCode": "NL",
+    "lng": 5.593889,
+    "feature": "city",
+    "geoNameId": 2751627,
+    "lang": "en",
+    "lat": 51.519444
+  },
+  {
+    "summary": "Stiphout is a village in the Dutch province of North Brabant. It is located in the municipality of Helmond, about 2km west of the centre of that city. The town is mentioned for the first time in 1155 as 'Villa Stilpot' and in 2005 the village celebrated their 850th anniversary (...)",
+    "distance": "2.8019",
+    "rank": 87,
+    "title": "Stiphout",
+    "wikipediaUrl": "en.wikipedia.org/wiki/Stiphout",
+    "elevation": 20,
+    "countryCode": "NL",
+    "lng": 5.618056,
+    "feature": "city",
+    "geoNameId": 2746695,
+    "lang": "en",
+    "lat": 51.485833
+  },
+  {
+    "summary": "Beek en Donk is a village in the province Noord Brabant, Netherlands. There are 10028 inhabitants. The area of nowadays Beek en Donk has been inhabited for a long time. Tools of stone age nomadic people have been found. The first permanent inhabitants come around 700 AD (...)",
+    "distance": "2.8165",
+    "rank": 94,
+    "title": "Beek en Donk",
+    "wikipediaUrl": "en.wikipedia.org/wiki/Beek_en_Donk",
+    "elevation": 15,
+    "countryCode": "NL",
+    "lng": 5.630278,
+    "feature": "city",
+    "geoNameId": 8436503,
+    "lang": "en",
+    "lat": 51.534722
+  }
+]}

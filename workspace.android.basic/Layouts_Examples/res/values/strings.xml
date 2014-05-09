@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Layout example app</string>
+    <string name="call">Call</string>
+    <string name="email">Email</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="exit">Exit</string>
+    <string name="bart">Bart</string>
+    <string name="simpson">Simpson</string>
+    <string name="homer">Homer</string>
+    <string name="first">First</string>
+    <string name="second">Second</string>
+    <string name="third">Third</string>
+    <string name="fourth">Fourth</string>
+    <string name="Linear">Linear</string>
+    <string name="relative">Relative</string>
+    <string name="table">Table</string>
+    <string name="scroll">Scroll</string>
+    <string name="frame">Frame</string>
+    <string name="selectLayout">Please select layout example:</string>
+    <string name="homeboy">Homie!</string>
+    <string name="meisjesNaam">annie</string>
+</resources>

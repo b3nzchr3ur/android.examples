@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content"
+    android:id="@+id/textLabel" 
+    android:text="@string/title"
+    android:textColor="#000000"
+    android:background="#22bb22"
+    android:layout_marginTop="10dp"
+    android:layout_marginBottom="10dp"
+    android:textSize="30dp"/>
+    
+<Button android:text="Show network status" android:layout_height="wrap_content" 
+		android:id="@+id/buttonNetworkStatus" 
+		android:layout_width="match_parent"></Button>
+
+<Button
+    android:id="@+id/getGrade"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Get grade" />
+
+<TableLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+    android:stretchColumns="1">
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Student number:" />
+
+        <EditText
+            android:id="@+id/editTextStudentNumber"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number" >
+
+            <requestFocus />
+        </EditText>
+    </TableRow>
+
+    <TableRow
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Grade:" />
+
+        <EditText
+            android:id="@+id/editTextGrade"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="number" />
+    </TableRow>
+</TableLayout>
+
+<Button android:text="Set Grade" android:layout_height="wrap_content" 
+		android:id="@+id/setGrade" 
+		android:layout_width="match_parent"/>
+		
+<TextView android:textAppearance="?android:attr/textAppearanceLarge" 
+		  android:layout_height="wrap_content"
+		  android:layout_width="wrap_content" 
+		  android:text="Server Reply:"
+		  android:id="@+id/textViewReply"/>
+		  
+<EditText android:id="@+id/editTextReply" 
+		  android:layout_width="match_parent"
+		  android:layout_height="fill_parent" 
+		  android:editable="false"
+		  android:inputType="textMultiLine"/>
+		
+</LinearLayout>
