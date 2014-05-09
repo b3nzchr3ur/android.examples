@@ -91,3 +91,7 @@ local.properties
 
 # TeXlipse plugin
 .texlipse
+
+#-----------------------------------------
+# Additional files:
+.DS_store
