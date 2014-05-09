@@ -35,7 +35,7 @@ import android.widget.EditText;
 
 public class NetappDemoActivity extends Activity {	
 	//private static final String JSONurl = "http://api.geonames.org/findNearbyWikipediaJSON?formatted=true&lat=51.511&lng=5.616&username=xxxx&password=xxxx";
-	private static final String JSONurl = "to github..."; //TODO
+	private static final String JSONurl = "https://raw.githubusercontent.com/b3nzchr3ur/android.examples/master/workspace.android.basic/Network_GeonamesDemo/findNearbyWikipediaJSON.json";
 	
 	private static final String TAG="FHICT";
 
